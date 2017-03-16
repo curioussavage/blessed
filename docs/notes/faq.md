@@ -61,6 +61,7 @@ What is the difference between blessed and blessed-contrib?
 Are there blessed-like solutions for non-javascript platforms?
 
  Yes. There are some fantastic solutions out there.
+ 
     - Perl: [Curses::UI][curses-ui]
     - Python: [Urwid][urwid]
     - Go: [termui][termui] & [termbox-go][termbox]
