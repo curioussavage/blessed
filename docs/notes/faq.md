@@ -43,7 +43,7 @@ Will blessed work with all terminals?
 
 What is "curses" and "ncurses"?
 
-> ["curses"][curses] was an old library written in the early days of unix
+ ["curses"][curses] was an old library written in the early days of unix
     which allowed a programmer to easily manipulate the cursor in order to
     render the screen. ["ncurses"][ncurses] is a free reimplementation of
     curses. It improved upon it quite a bit by focusing more on terminal
@@ -53,7 +53,7 @@ What is "curses" and "ncurses"?
 
 What is the difference between blessed and blessed-contrib?
 
-> blessed is a major piece of code which reimplements curses from the ground
+ blessed is a major piece of code which reimplements curses from the ground
     up. A UI API is then layered on top of this. [blessed-contrib][contrib] is
     a popular library built on top of blessed which makes clever use of modules
     to implement useful widgets like graphs, ascii art, and so on.
