@@ -1,15 +1,15 @@
 
-#### FAQ
+## FAQ
 
 
-Why doesn't the Linux console render lines correctly on Ubuntu?
+### Why doesn't the Linux console render lines correctly on Ubuntu?
 
-> You need to install the `ncurses-base` package __and__ the `ncurses-term`
+ You need to install the `ncurses-base` package __and__ the `ncurses-term`
     package. (#98)
 
-Why do vertical lines look chopped up in iTerm2?
+### Why do vertical lines look chopped up in iTerm2?
 
-> All ACS vertical lines look this way in iTerm2 with the default font.
+All ACS vertical lines look this way in iTerm2 with the default font.
 
 Why can't I use my mouse in Terminal.app?
 
